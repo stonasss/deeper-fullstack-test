@@ -2,6 +2,8 @@
 
 This repository contains the frontend and backend of the CRUD app requested as a test by Deeper Systems. The frontend uses Vue 3 (using Vuetify), while the backend uses Python, Flask and MongoDB.
 
+Inside the backend directory, you will find a udata.json file containing data that is to be parsed by the 'parser.py' script (instructions below).
+
 ## How to run ▶️
 ```bash
 # Clone this repository
