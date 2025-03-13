@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 $ python parser.py
 # Start the Flask server
 $ flask --app server run
-# Now, access the frontend project folder (I used a bash terminal)
+# Now, return to the root directory and access the frontend project folder (I used a bash terminal)
 $ cd frontend
 # Install dependencies
 $ npm i
